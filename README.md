@@ -1,4 +1,4 @@
-# ProductManagerNanodegree
+# Udacity Product Manager Nanodegree
 
 In this Nanodegree, you will learn foundational skills all product managers use in leading the development of software products, whether mobile apps, desktop apps, or web platforms for consumers or enterprises.
 
